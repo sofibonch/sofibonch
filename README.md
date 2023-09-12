@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 🔭 I’m currently working on 2 project:
-A roguelike 2D game in Godot
-platform for Data organization
+-A roguelike 2D game in Godot
+-platform for Data organization
 <!--
 **sofibonch/sofibonch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

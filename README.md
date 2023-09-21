@@ -12,10 +12,6 @@ At present, I am actively engaged in various projects that leverage my technical
 
 I have a keen interest in the graphical and game development aspects of the tech industry. I believe that the fusion of creativity and technology in these domains offers limitless opportunities for innovation and artistic expression.
 
-## Hobbies
-
-Outside the world of coding and technology, I have a few hobbies that keep me balanced. I'm an avid knitter, finding solace in the rhythmic motion of creating beautiful, handcrafted pieces. Reading is another passion of mine; I love getting lost in the worlds that books create. Lastly, I enjoy bouldering, a physically challenging activity that allows me to push my limits and stay fit.
-
 ## Current Projects
 
 I'm currently working on:
@@ -28,5 +24,7 @@ I'm excited to connect with like-minded individuals, collaborate on exciting pro
 
 Feel free to reach out and connect with me!
 
-- ⚡ Fun fact: ...
--->
+## Hobbies
+
+Outside the world of coding and technology, I have a few hobbies that keep me balanced. I'm an avid knitter, finding solace in the rhythmic motion of creating beautiful, handcrafted pieces. Reading is another passion of mine; I love getting lost in the worlds that books create. Lastly, I enjoy bouldering, a physically challenging activity that allows me to push my limits and stay fit.
+

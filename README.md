@@ -1,5 +1,7 @@
 ### Hi there 👋
-I'm a Computer Science and Cognitive Science graduate. In the last several years, I was a research assistant at a psychology lab in my university. Currently, I'm working on several projects and looking for a position in the software development world. :)
+I'm a Computer Science and Cognitive Science graduate. 
+
+In the last several years, I was a research assistant at a psychology lab in my university. Currently, I'm working on several projects and looking for a position in the software development world. :)
 
 
 - 🔭 I’m currently working on:

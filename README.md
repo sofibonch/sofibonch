@@ -2,11 +2,11 @@
 
 ## About Me
 
-I'm a recent graduate with a background in Computer Science and Cognitive Science. During my academic journey, I had the privilege of working as a research assistant at a psychology lab in my university, which allowed me to explore the intersection of technology and human cognition.
+I'm a recent graduate with a background in Computer Science and Cognitive Science. During my academic journey, I worked as a research assistant at a psychology lab in my university, which allowed me to explore the intersection of technology and human cognition.
 
 ## Current Focus
 
-At present, I am actively engaged in various projects that leverage my technical skills and passion for innovation. My primary goal is to secure a position in the software development world where I can apply my knowledge and contribute to cutting-edge projects.
+At present, I am actively engaged in various projects that leverage my technical skills and passion for innovation. My primary goal is to secure a position in the software development world where I can apply my knowledge and contribute to cutting-edge projects at the same time as learning and expanding my knowledge in the field.
 
 ## Areas of Interest
 

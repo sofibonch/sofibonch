@@ -18,8 +18,7 @@ I'm currently working on:
 
 - **A roguelike 2D game in Godot:** Exploring the exciting world of game development and creating an immersive gaming experience.
 
-- **A platform for Data organization:** Building a tool to simplify data management and organization, streamlining data-related tasks.
-
+- **6502 CPU Emulator:** Building an Emulator of the 6502 CPU in C++.
 I'm excited to connect with like-minded individuals, collaborate on exciting projects, and continue learning and growing in the ever-evolving field of technology.
 
 Feel free to reach out and connect with me!
